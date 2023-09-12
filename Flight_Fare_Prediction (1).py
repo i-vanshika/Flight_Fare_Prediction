@@ -178,8 +178,8 @@ data_train.head()
 # In[24]:
 
 
-# Time taken by the plane to reach its destination is called Duration
-# It is the difference between the Departure Time and the Arrival Time
+# Time taken by the plane to reach its destination is called Duration.
+# It is the difference between the Departure Time and the Arrival Time.
 
 
 # In[ ]:
