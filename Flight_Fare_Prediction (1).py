@@ -175,13 +175,6 @@ data_train.drop(["Arrival_Time"], axis=1, inplace=True)
 data_train.head()
 
 
-# In[24]:
-
-
-
-# It is the difference between the Departure Time and the Arrival Time
-
-
 # In[ ]:
 
 
