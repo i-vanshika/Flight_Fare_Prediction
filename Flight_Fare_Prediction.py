@@ -631,11 +631,6 @@ selection= ExtraTreesRegressor()
 selection.fit(X,y)
 
 
-# In[83]:
-
-
-print(selection.feature_importances_)
-
 
 # In[ ]:
 
